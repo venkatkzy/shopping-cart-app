@@ -24,6 +24,12 @@ A simple and responsive shopping cart interface built using **React**, **TypeScr
 
 ---
 
+## 📡 Data Source
+
+- Products are fetched in real-time from the [Fake Store API](https://fakestoreapi.com/), which provides mock e-commerce data for testing and prototyping.
+
+---
+
 ## 📦 Getting Started
 
 ```bash
